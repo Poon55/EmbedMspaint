@@ -1,0 +1,11 @@
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\bin\Debug\EmbedMspaint.exe.config
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\bin\Debug\EmbedMspaint.exe
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\bin\Debug\EmbedMspaint.pdb
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.csprojResolveAssemblyReference.cache
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.Form1.resources
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.Frm_Embed.resources
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.Properties.Resources.resources
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.csproj.GenerateResource.Cache
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.exe
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\obj\Debug\EmbedMspaint.pdb
+E:\Prj\GitHub\EmbedMspaint\EmbedMspaint\bin\Debug\Images\StylePic.png
